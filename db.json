@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "Name": "bfgbgffbgg",
+      "id": 1
+    },
+    {
+      "Name": "Amrita singh jassal",
+      "Company": "swdw",
+      "status": "active",
+      "id": 2
+    },
+    {
+      "notes": "hey",
+      "id": 3
+    },
+    {
+      "status": "active",
+      "Name": "gurmeet",
+      "id": 4
+    },
+    {
+      "Name": "Amrita singh ",
+      "status": "passive",
+      "id": 5
+    }
+  ]
+}
